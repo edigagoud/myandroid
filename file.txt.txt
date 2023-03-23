@@ -7,3 +7,4 @@ this is my file2.txt
 {
 this my new dev branch
 }
+x=2
